@@ -1,0 +1,15 @@
+{
+	"name": "rx-demo",
+	"authors": [
+		"Lawrence Aberba"
+	],
+	"dependencies": {
+		"rx": "~>0.9.0",
+		"dlangui": "~>0.9.180",
+		"requests": "~>1.0.1",
+		"fswatch": "~>0.3.0"
+	},
+	"description": "RX reactive programming in D",
+	"copyright": "Copyright © 2018, Lawrence Aberba",
+	"license": "BSL-1.0"
+}
