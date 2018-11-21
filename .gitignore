@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+rx.so
+rx.dylib
+rx.dll
+rx.a
+rx.lib
+rx-test-*
+*.exe
+*.o
+*.obj
+*.lst
+
+rx-demo/rx-demo
