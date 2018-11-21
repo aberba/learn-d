@@ -1,0 +1,10 @@
+doctype html
+html
+	head
+		title Testing
+	body
+		form(method="POST", action="form")
+			input(name="data[]", type="text")
+			input(name="data[]", type="text")
+			input(name="data[]", type="text")
+			button(type="submit") Submit

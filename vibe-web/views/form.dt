@@ -1,0 +1,8 @@
+doctype html
+html
+	head
+		title Testing
+	body
+		p Data: #{data}
+
+		v=spf1 include:spf.efwd.registrar-servers.com ~all
